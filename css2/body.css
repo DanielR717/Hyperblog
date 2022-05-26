@@ -1,6 +1,16 @@
 body
 {
+<<<<<<< HEAD
     color: #333;
+=======
+<<<<<<< HEAD
+    color: blue;
+=======
+    color: red;
+>>>>>>> cabecera
+    text-align: left;
+    font-family: "Comic";
+>>>>>>> master
     text-align: center;
     font-family: Arial;
     font-size: 16px;
