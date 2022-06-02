@@ -1,0 +1,13 @@
+Esta es una Historia
+
+Este es mi primer Git
+
+:D
+
+seguimos revisando modificaciones
+
+clase 11-5-2022
+
+empezamos una nueva historia
+
+aprendiendo a programar y guardando en Git
