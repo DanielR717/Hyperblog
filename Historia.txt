@@ -10,4 +10,6 @@ clase 11-5-2022
 
 empezamos una nueva historia
 
-aprendiendo a programar y guardando en Git
+Aprendiendo a programar y guardando en Git
+
+Haciendo pruebas con danielrojas1030
