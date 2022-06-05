@@ -12,4 +12,4 @@ empezamos una nueva historia
 
 Aprendiendo a programar y guardando en Git
 
-Haciendo pruebas con danielrojas1030
+Haciendo pruebas el 04 de junio 2022
